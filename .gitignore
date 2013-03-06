@@ -7,3 +7,9 @@
 
 # AWS
 AwsCredentials.properties
+
+# Maven & Eclipse
+.classpath
+.project
+.settings
+target
